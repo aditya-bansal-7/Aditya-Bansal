@@ -1,9 +1,9 @@
 # Aditya-Bansal
-Portfolio website
+[Portfolio website](https://aditya-bansal.netlify.app/)
 
 # Getting Started with Create React App
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/be284e91-4d56-4c0d-a641-31e5b986422b/deploy-status)](https://app.netlify.com/sites/stupendous-pony-ebdd1b/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/60b30c0d-48e1-4b5f-abc6-14f4ab544ae5/deploy-status)](https://app.netlify.com/sites/stupendous-pony-ebdd1b/deploys)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
